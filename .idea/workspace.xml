@@ -5,7 +5,7 @@
     <ignored path="dws1.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="41207035-9c7d-4898-9e9e-4439a7440698" time="1383440722592" ignored="false" />
-    <file path="/recipe.html" changelist="41207035-9c7d-4898-9e9e-4439a7440698" time="1383442246023" ignored="false" />
+    <file path="/recipe.html" changelist="41207035-9c7d-4898-9e9e-4439a7440698" time="1383443042541" ignored="false" />
     <file path="/dummy.xml" changelist="41207035-9c7d-4898-9e9e-4439a7440698" time="1383441756800" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,7 +29,7 @@
       <file leaf-file-name="recipe.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/recipe.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="27" selection-start="215" selection-end="215" vertical-scroll-proportion="0.2136076">
+            <state line="6" column="7" selection-start="96" selection-end="96" vertical-scroll-proportion="0.14240506">
               <folding />
             </state>
           </provider>
@@ -234,7 +234,7 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/recipe.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="27" selection-start="215" selection-end="215" vertical-scroll-proportion="0.2136076">
+        <state line="6" column="7" selection-start="96" selection-end="96" vertical-scroll-proportion="0.14240506">
           <folding />
         </state>
       </provider>
