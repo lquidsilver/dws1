@@ -8,6 +8,7 @@
     <file path="/recipe.html" changelist="41207035-9c7d-4898-9e9e-4439a7440698" time="1383443042541" ignored="false" />
     <file path="/dummy.xml" changelist="41207035-9c7d-4898-9e9e-4439a7440698" time="1383441756800" ignored="false" />
     <file path="/gallery.html" changelist="41207035-9c7d-4898-9e9e-4439a7440698" time="1383582803186" ignored="false" />
+    <file path="/element_definitions.html" changelist="41207035-9c7d-4898-9e9e-4439a7440698" time="1383587542858" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,10 +37,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="gallery.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="gallery.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/gallery.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="37" selection-start="681" selection-end="681" vertical-scroll-proportion="0.38709676">
+            <state line="16" column="37" selection-start="681" selection-end="681" vertical-scroll-proportion="-10.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="element_definitions.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/element_definitions.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="153" column="43" selection-start="3987" selection-end="3987" vertical-scroll-proportion="0.3467742">
               <folding />
             </state>
           </provider>
@@ -65,6 +75,7 @@
       <list>
         <option value="$PROJECT_DIR$/recipe.html" />
         <option value="$PROJECT_DIR$/gallery.html" />
+        <option value="$PROJECT_DIR$/element_definitions.html" />
       </list>
     </option>
   </component>
@@ -259,7 +270,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/gallery.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="37" selection-start="681" selection-end="681" vertical-scroll-proportion="0.38709676">
+        <state line="16" column="37" selection-start="681" selection-end="681" vertical-scroll-proportion="-10.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/element_definitions.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="153" column="43" selection-start="3987" selection-end="3987" vertical-scroll-proportion="0.3467742">
           <folding />
         </state>
       </provider>
