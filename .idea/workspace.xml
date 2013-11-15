@@ -10,8 +10,9 @@
     <file path="/gallery.html" changelist="41207035-9c7d-4898-9e9e-4439a7440698" time="1383582803186" ignored="false" />
     <file path="/element_definitions.html" changelist="41207035-9c7d-4898-9e9e-4439a7440698" time="1383587542858" ignored="false" />
     <file path="/colors.html" changelist="41207035-9c7d-4898-9e9e-4439a7440698" time="1383873302575" ignored="false" />
-    <file path="/stylesheet.css" changelist="41207035-9c7d-4898-9e9e-4439a7440698" time="1384479335849" ignored="false" />
+    <file path="/stylesheet.css" changelist="41207035-9c7d-4898-9e9e-4439a7440698" time="1384484436675" ignored="false" />
     <file path="/layout.html" changelist="41207035-9c7d-4898-9e9e-4439a7440698" time="1384479323023" ignored="false" />
+    <file path="/backgrounds.html" changelist="41207035-9c7d-4898-9e9e-4439a7440698" time="1384483483544" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,16 +35,23 @@
       <file leaf-file-name="stylesheet.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/stylesheet.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="48" column="24" selection-start="663" selection-end="663" vertical-scroll-proportion="0.69720495">
+            <state line="28" column="87" selection-start="588" selection-end="588" vertical-scroll-proportion="0.65217394">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="layout.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/layout.html">
+      <file leaf-file-name="bg.png" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/images/bg.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="backgrounds.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/backgrounds.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="97" column="19" selection-start="18646" selection-end="18646" vertical-scroll-proportion="-17.166666">
+            <state line="7" column="23" selection-start="168" selection-end="168" vertical-scroll-proportion="-4.375">
               <folding />
             </state>
           </provider>
@@ -72,6 +80,7 @@
         <option value="$PROJECT_DIR$/element_definitions.html" />
         <option value="$PROJECT_DIR$/colors.html" />
         <option value="$PROJECT_DIR$/layout.html" />
+        <option value="$PROJECT_DIR$/backgrounds.html" />
         <option value="$PROJECT_DIR$/css/stylesheet.css" />
       </list>
     </option>
@@ -124,6 +133,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="dws1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dws1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dws1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -351,9 +374,21 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/images/bg.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backgrounds.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="23" selection-start="168" selection-end="168" vertical-scroll-proportion="-4.375">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/css/stylesheet.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="48" column="24" selection-start="663" selection-end="663" vertical-scroll-proportion="0.69720495">
+        <state line="28" column="87" selection-start="588" selection-end="588" vertical-scroll-proportion="0.65217394">
           <folding />
         </state>
       </provider>
