@@ -57,13 +57,13 @@ td
     border-width: 0px;
 }
 
-div.links
+nav
 {
     width: 12%;
     float: left;
     margin-right: 0.7%;
 }
-p.footer
+footer
 {
 clear: both;
 }
