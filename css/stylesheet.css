@@ -1,104 +1,76 @@
-body
+html,body
 {
-    background-color:#cccccc;
-    font-family: sans-serif;   /*Added font size and style here instead of the table*/
-    font-size: 0.938em;
-    background-image:url('../images/bg.png');
-    background-repeat: repeat-x;
-}
-ol
-{
-    background-color:hsla(120,0%,50%,0.3);
+    height: 100%;
+    background-image: url('../images/bg.jpg');
+    background-repeat: repeat;
+    font-family: sans-serif;
+    font-style: normal;
+    font-weight: inherit;
+    font-size: 13px;
+    line-height: 20px;
+
 
 }
-h1
+div.content
 {
-    font-family: sans-serif;
-    background-color: #cccccc;
-    color: rgb(255,255,255);
-}
-h2
-{
-    font-family: sans-serif;
-    background-color: #cccccc;
-    color: rgb(255,255,255);
-    height: 50px;
-}
-h2:hover
-{
-    background-color: #69bff6; /*Added hover over the headers instead of the table rows*/
-}
-h4
-{
-    font-family: sans-serif;
-    background-color: #cccccc;
-    color: rgb(255,255,255);
-}
-table.main
-{
-    background-color:hsl(120,100%,100%);
-    border-width: 1px;
-    border-color:black;
-    margin-top:-0.5%;
-    padding: 0.5%;
     width: 80%;
-    letter-spacing: 1px;
-    text-align: left;
-    border-spacing: 2px;
-
-
+    border: 2px solid;
+    border-color: #2f93f7;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 5px;
+    height: 100%;
+    padding: 2px;
+    opacity: 99.5;
+    background-color: #ffffff;
+    box-shadow: 5px 5px 5px #0000ff ;
+    background-image: url('../images/bg2.jpg');
+    background-position: 78%;
+    background-repeat: no-repeat;
 }
-tr
+header
 {
-    border-width: 0px;
+    text-align: center;
+    text-shadow: 2px 2px #cccccc;
 }
-td
+section
 {
-    border-width: 0px;
-}
+    float: left;
+    width: 75%;
 
+    height: 80%;
+}
+aside
+{
+    float: right;
+    width: 20%;
+
+    text-align: center;
+
+}
 nav
 {
-    width: 12%;
-    float: left;
-    margin-right: 0.7%;
+    float: right;
+    width: 20%;
+    border: 1px solid;
+}
+th
+{
+    background: linear-gradient(to bottom, #1e5799 0%,#2989d8 50%,#207cca 51%,#7db9e8 100%);
+    background-repeat: repeat-x;
+}
+th:hover
+{
+    background: linear-gradient(to bottom, #1e5799 0%,#2989d8 50%,#207cca 51%,#ffffff 86%);
+}
+table
+{
+    width: 100%;
 }
 footer
 {
-clear: both;
-}
-
-.history
-{
-    background-image: url('../images/history.png');
-    background-repeat: no-repeat;
-    background-position: 99.5% top;
-
-}
-.tools
-{
-    background-image: url('../images/tools.png');
-    background-repeat: no-repeat;
-    background-position: 99.5% top;
-}
-.skills
-{
-    background-image: url('../images/skills.png');
-    background-repeat: no-repeat;
-    background-position: 99.5% top;
-}
-
-
-.profession
-{
-    background-image: url('../images/profession.png');
-    background-repeat: no-repeat;
-    background-position: 99.5% top;
-}
-
-.linked
-{
-    background-image: url('../images/links.png');
-    background-repeat: no-repeat;
-    background-position: 99.5% top;
+    font-size: 10px;
+    font-style: italic;
+    clear: both;
+    text-align: center;
 }
